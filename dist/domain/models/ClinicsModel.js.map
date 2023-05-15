@@ -1,0 +1,1 @@
+{"version":3,"file":"ClinicsModel.js","sourceRoot":"","sources":["../../../src/domain/models/ClinicsModel.ts"],"names":[],"mappings":";;;AAEA,MAAa,YAAY;IAGvB,YAAY,EAAU;QACpB,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;IACf,CAAC;IACD,MAAM,CAAC,MAAe;QACpB,IAAI,CAAC,CAAC,MAAM,YAAY,YAAY,CAAC;YAAE,OAAO,KAAK,CAAC;QACpD,OAAO,IAAI,CAAC,EAAE,KAAK,MAAM,CAAC,EAAE,CAAC;IAC/B,CAAC;CACF;AAVD,oCAUC"}

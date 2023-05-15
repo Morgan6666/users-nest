@@ -1,0 +1,1 @@
+{"version":3,"file":"IDocumentsRepository.js","sourceRoot":"","sources":["../../../src/application/ports/IDocumentsRepository.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAG5C,IAAsB,oBAAoB,GAA1C,MAAsB,oBAAoB;CAMzC,CAAA;AANqB,oBAAoB;IADzC,IAAA,mBAAU,GAAE;GACS,oBAAoB,CAMzC;AANqB,oDAAoB"}
